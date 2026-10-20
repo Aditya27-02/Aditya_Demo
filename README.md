@@ -1,4 +1,4 @@
 # Aditya_Demo
 This is My First Git Repository
 <br/>
-Author - Valiveti Shanmukha Guru Aditya
+Author - Valiveti (Swamy Naga Sai Nivas)
